@@ -30,18 +30,10 @@
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
   <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" />
 </p>
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelcoutinholima&show_icons=true&theme=dracula&count_private=true" />
-  <img
----
 
 ## 🚀 Projetos em Destaque
 
 - 🔧 **Automatizador de Tarefas com Python**
-  - Usa `pyautogui`, `pandas` e `openpyxl`
-  - Gera relatórios e executa ações repetitivas automaticamente
 
 - 🌐 **Mini Portfólio Web**
   - Criado com `HTML`, `CSS` e `JavaScript`
