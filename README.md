@@ -10,7 +10,6 @@
 
 - 🔭 Atualmente estudando: **Python | CSS | HTML | JavaScript**
 - 👨‍💻 Focado em: **automação de tarefas, desenvolvimento web e lógica de programação**
-- 💬 Me pergunte sobre: **Python, Git, automações, lógica e produtividade com código**
 - 🎯 Em constante evolução: **curioso por novas tecnologias e ferramentas**
 - ⚡ Curiosidade: **Gosto de desafios lógicos e de automatizar o que for possível**
 
