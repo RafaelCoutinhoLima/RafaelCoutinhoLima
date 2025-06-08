@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Coding+the+future...;Always+learning+new+things!;Python+is+life!&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?;Always+learning+new+things!;&center=true&width=380&height=45">
 </p>
