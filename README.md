@@ -1,65 +1,60 @@
-<h1 align="center">Olá! 👋 Eu sou Rafael Coutinho</h1>
+<h1 align="center">Hello! 👋 I'm Rafael Coutinho</h1>
 
 <p align="center">
-  Desenvolvedor | Buscando sempre o melhor desempenho | Resolvo problemas com código 💻
+  Developer | Always seeking the best performance | Solves problems with code 💻
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-- 🔭 Atualmente estudando: **Python | CSS | HTML | JavaScript**
-- 👨‍💻 Focado em: **automação de tarefas, desenvolvimento web e lógica de programação**
-- 🎯 Em constante evolução: **curioso por novas tecnologias e ferramentas**
-- ⚡ Curiosidade: **Gosto de desafios lógicos e de automatizar o que for possível**
-
----
-
-## 
+- 🔭 Currently studying: **Python | CSS | HTML | JavaScript**
+- 👨‍💻 Focused on: **task automation, web development, and programming logic**
+- 🎯 Constantly evolving: **curious about new technologies and tools**
+- ⚡ Fun fact: **I enjoy logic challenges and automating whatever is possible**
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 
+
+---
+
+## 🛠️ Technologies and Tools
 
 <p>
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" />
 </p>
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
-- 🔧 **Automatizador de Tarefas com Python**
+- 🔧 **Task Automator with Python**
 
-- 🌐 **Mini Portfólio Web**
-  - Criado com `HTML`, `CSS` e `JavaScript`
-  - Responsivo e com foco em performance
-
-- 🧹 **Validador de Dados em Arquivos**
-  - Lê arquivos `.txt` e organiza informações de forma dinâmica
-
----
-
+- 🌐 **Mini Web Portfolio**
+  - Built with `HTML`, `CSS`, and `JavaScript`
+  - Responsive and focused on performance
+  -**link do repositorio**[Ver Codígo](https://github.com/RafaelCoutinhoLima/Portfolio_Web_RafaelCoutinho)
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelcoutinholima&show_icons=true&theme=dracula&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcoutinholima&layout=compact&theme=dracula" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelcoutinholima&show_icons=true&theme=dracula&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcoutinholima&layout=compact&theme=dracula" />
 </p>
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - ✉️ Email: [rafaelcoutinholima12345@gmail.com](mailto:rafaelcoutinholima12345@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/rafael-coutinho-89a825357](https://linkedin.com/in/rafael-coutinho-89a825357)
-- 📱 WhatsApp: [Clique aqui para conversar](https://wa.me/5581981060511)
+- 📱 WhatsApp: [Click here to chat](https://wa.me/5581981060511)
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Codando+o+futuro...;Sempre+aprendendo+coisas+novas!;Python+é+vida!&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Coding+the+future...;Always+learning+new+things!;Python+is+life!&center=true&width=380&height=45">
 </p>
