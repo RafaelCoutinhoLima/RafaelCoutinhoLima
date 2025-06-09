@@ -1,17 +1,17 @@
-<h1 align="center">Olá! 👋 Sou Rafael Coutinho</h1>
+<h1 align="center">Hello! 👋 I'm Rafael Coutinho</h1>
 
 <p align="center">
-  Desenvolvedor | Sempre em busca do melhor desempenho | Resolve problemas com código 💻
+  Developer | Always seeking the best performance | Solves problems with code 💻
 </p>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-- 🔭 Atualmente estudando: **Python | CSS | HTML | JavaScript**
-- 👨‍💻 Focado em: **automação de tarefas, desenvolvimento web e lógica de programação**
-- 🎯 Em constante evolução: **curioso sobre novas tecnologias e ferramentas**
-- ⚡ Curiosidade: **Adoro desafios de lógica e automatizar o que for possível**
+- 🔭 Currently studying: **Python | CSS | HTML | JavaScript**
+- 👨‍💻 Focused on: **task automation, web development, and programming logic**
+- 🎯 Constantly evolving: **curious about new technologies and tools**
+- ⚡ Fun fact: **I enjoy logic challenges and automating whatever is possible**
 
 ---
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 
 <p>
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
@@ -30,14 +30,15 @@
   <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" />
 </p>
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
-- 🔧 **Automatizador de Tarefas com Python**
+- 🔧 **Task Automator with Python**
 
-- 🌐 **Mini Portfólio Web**
-  - Construído com `HTML`, `CSS` e `JavaScript`
-  - Responsivo e focado em desempenho
-  -**link do repositorio**[Ver Código](https://github.com/RafaelCoutinhoLima/Portfolio_Web_RafaelCoutinho)
+- 🌐 **Mini Web Portfolio**
+  - Built with `HTML`, `CSS`, and `JavaScript`
+  - Responsive and focused on performance
+  - **Repository Link:** [View Code](https://github.com/RafaelCoutinhoLima/Portfolio_Web_RafaelCoutinho)
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -47,14 +48,14 @@
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - ✉️ Email: [rafaelcoutinholima12345@gmail.com](mailto:rafaelcoutinholima12345@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/rafael-coutinho-89a825357](https://www.linkedin.com/in/rafaelcoutinholima/)
-- 📱 WhatsApp: [Clique aqui para conversar](https://wa.me/5581981060511)
+- 📱 WhatsApp: [Click here to chat](https://wa.me/5581981060511)
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Sempre+aprendendo+coisas+novas!;&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Always+learning+new+things!;&center=true&width=380&height=45">
 </p>
