@@ -50,7 +50,7 @@
 ## 📫 Contato
 
 - ✉️ Email: [rafaelcoutinholima12345@gmail.com](mailto:rafaelcoutinholima12345@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/rafael-coutinho-89a825357](www.linkedin.com/in/rafaelcoutinholima)
+- 💼 LinkedIn: [linkedin.com/in/rafael-coutinho-89a825357](https://www.linkedin.com/in/rafaelcoutinholima/)
 - 📱 WhatsApp: [Clique aqui para conversar](https://wa.me/5581981060511)
 
 ---
